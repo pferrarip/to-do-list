@@ -1,2 +1,1 @@
-# to-do-list
-A basic to do list with Python
+# to-do list
